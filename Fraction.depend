@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510996190 source:f:\asop\activity02\fraction\main.cpp
+	<iostream>
+	"Fraction.h"
+
+1510996052 f:\asop\activity02\fraction\include\fraction.h
+
+1510996562 source:f:\asop\activity02\fraction\src\fraction.cpp
+	<iostream>
+	"Fraction.h"
+
